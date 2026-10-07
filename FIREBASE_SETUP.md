@@ -1,4 +1,16 @@
-# Configuração do Firebase Realtime Database
+# Configuração do Firebase
+
+## Arquivo de credenciais (google-services.json)
+
+O arquivo `android/app/google-services.json` contém as credenciais do projeto Firebase e **não é versionado**. Para rodar o app:
+
+1. Acesse o [Console do Firebase](https://console.firebase.google.com/) e abra (ou crie) o projeto.
+2. Em **Configurações do projeto → Seus apps**, adicione um app Android com o pacote `com.example.fire_app`.
+3. Baixe o `google-services.json` e salve em `android/app/google-services.json`.
+
+O arquivo `android/app/google-services.json.example` mostra a estrutura esperada, sem dados reais.
+
+# Regras do Firebase Realtime Database
 
 ## ⚠️ ERRO: Permission Denied
 

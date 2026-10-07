@@ -44,3 +44,8 @@ app.*.map.json
 
 # 🔥 IGNORAR pubspec.lock
 /pubspec.lock
+
+# Firebase: credenciais locais (use android/app/google-services.json.example como modelo)
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
+/lib/firebase_options.dart

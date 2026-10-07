@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "834337081179",
-    "project_id": "fireapp-17168",
-    "storage_bucket": "fireapp-17168.firebasestorage.app"
+    "project_number": "SEU_PROJECT_NUMBER",
+    "project_id": "SEU_PROJECT_ID",
+    "storage_bucket": "SEU_PROJECT_ID.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:834337081179:android:3fb36a951ee9561b80fc7e",
+        "mobilesdk_app_id": "1:SEU_PROJECT_NUMBER:android:SEU_APP_ID",
         "android_client_info": {
           "package_name": "com.example.fire_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAcOk4tJG-EYsfo_hFf9C36FAoN3SC2MvM"
+          "current_key": "SUA_API_KEY"
         }
       ],
       "services": {
