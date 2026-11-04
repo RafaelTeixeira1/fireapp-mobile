@@ -836,7 +836,7 @@ class _HomePageScreenState extends State<HomePageScreen> {
                                     ),
                                     const SizedBox(width: 8),
                                     Text(
-                                      'Vegetação (NDVI estimado)',
+                                      'Vegetação (NDVI)',
                                       style: TextStyle(
                                         fontSize: 14,
                                         fontWeight: FontWeight.bold,
